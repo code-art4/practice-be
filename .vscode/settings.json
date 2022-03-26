@@ -1,0 +1,9 @@
+{
+  "cSpell.words": [
+    "MIDDLEWARES",
+    "natours"
+  ],
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "scssFormatter.singleQuote": true
+}
